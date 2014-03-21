@@ -6,14 +6,12 @@ Pull Requests to this repo if you want to upload a plugin.
 
 Steps to add your plugins
 ===========
-Notes:
-  we use git submodule to manage the wox plugins. That means you need to create a plugin repo, and add your repo as the submodule of Wox.Plugins. **After you linked your plugin to Wox.Plugins, you can update your plugin by simply commit changes inside your repo, there is no more pull requests needed.**
+1. clone this repo
+2. edit plugins.txt to add your repo
+3. pull request and waiting for accept. Once we accept your change, you plugin will be available in [www.getwox.com/plugin](http://www.getwox.com/plugin) page.   
   
-  There are some conventions about your plugin repo. **In your plugin repo, it MUST contain a folder named Release and inside this folder, there should be a {any-name}.wox file.**
- 
-1. `git clone https://github.com/qianlifeng/Wox.Plugins.git`
-2. `git submodule add https://github.com/{username}/{plugin-repo-name} {plugin-repo-name}`
-3. `git add -A`
-4. `git commit -m "add xxx plugin"`
-5. `git push`
-6. pull request and waiting for accept. Once we accept your plugin, you plugin will be available in [www.getwox.com/plugin](http://www.getwox.com/plugin) page. 
+
+Notes:
+  **There are some conventions about your plugin repo.**  
+  * you **MUST** put plugin.json in the root of the repo. e.g. [Wox.Plugin.Doc](https://github.com/qianlifeng/Wox.Plugin.Doc)
+  * you **MUST** [create a release](https://help.github.com/articles/creating-releases) and upload your plugin named xxxx.wox, Wox will get the lastest release as the download link. e.g. [Wox.Plugin.Doc release page](https://github.com/qianlifeng/Wox.Plugin.Doc/releases)
