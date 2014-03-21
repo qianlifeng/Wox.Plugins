@@ -1,1 +1,2 @@
 qianlifeng/Wox.Plugin.Doc
+qianlifeng/Wox.Plugin.Doc
