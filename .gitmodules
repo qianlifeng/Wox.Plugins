@@ -1,0 +1,3 @@
+[submodule "Wox.Plugin.Doc"]
+	path = Wox.Plugin.Doc
+	url = https://github.com/qianlifeng/Wox.Plugin.Doc
