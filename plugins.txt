@@ -5,3 +5,4 @@ qianlifeng/Wox.Plugin.ClipboardManager
 qianlifeng/Wox.Plugin.Everything
 cxfksword/Wox.Plugin.ProcessKiller
 cxfksword/Wox.Plugin.UrlEncode
+orzFly/Wox.Plugin.Weather
