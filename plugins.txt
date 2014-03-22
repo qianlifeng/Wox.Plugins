@@ -3,3 +3,5 @@ qianlifeng/Wox.Plugin.DoubanMovie
 qianlifeng/Wox.Plugin.Youdao
 qianlifeng/Wox.Plugin.ClipboardManager
 qianlifeng/Wox.Plugin.Everything
+cxfksword/Wox.Plugin.ProcessKiller
+cxfksword/Wox.Plugin.UrlEncode
