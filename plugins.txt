@@ -1,2 +1,3 @@
 qianlifeng/Wox.Plugin.Doc
 qianlifeng/Wox.Plugin.DoubanMovie
+qianlifeng/Wox.Plugin.Youdao
