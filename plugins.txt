@@ -1,3 +1,5 @@
 qianlifeng/Wox.Plugin.Doc
 qianlifeng/Wox.Plugin.DoubanMovie
 qianlifeng/Wox.Plugin.Youdao
+qianlifeng/Wox.Plugin.ClipboardManager
+qianlifeng/Wox.Plugin.Everything
