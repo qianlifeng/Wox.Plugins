@@ -6,5 +6,6 @@ qianlifeng/Wox.Plugin.Everything
 cxfksword/Wox.Plugin.ProcessKiller
 cxfksword/Wox.Plugin.UrlEncode
 cxfksword/Wox.Plugin.OpenCMD
+cxfksword/Wox.Plugin.Recent
 orzFly/Wox.Plugin.Weather
 orzFly/Wox.Plugin.Switcheroo
