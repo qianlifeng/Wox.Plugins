@@ -10,3 +10,4 @@ cxfksword/Wox.Plugin.Recent
 orzFly/Wox.Plugin.Weather
 orzFly/Wox.Plugin.Switcheroo
 JohnTheGr8/Wox.Plugin.Spotify
+kosz78/wox.plugin.putty
