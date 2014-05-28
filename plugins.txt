@@ -12,3 +12,4 @@ orzFly/Wox.Plugin.Switcheroo
 JohnTheGr8/Wox.Plugin.Spotify
 kosz78/wox.plugin.putty
 kosz78/wox.plugin.uninstaller
+vaz-ar/Wox.Plugin.Projects
