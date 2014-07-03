@@ -14,3 +14,5 @@ kosz78/wox.plugin.putty
 kosz78/wox.plugin.uninstaller
 vaz-ar/Wox.Plugin.Projects
 ibndewitt/wox.plugin.rdp
+caoyue/Wox.Plugin.PowerPlan
+caoyue/Wox.Plugin.FirefoxBookmarks
