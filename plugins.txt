@@ -17,3 +17,4 @@ ibndewitt/wox.plugin.rdp
 WoxPlugins/CloseScreen
 CoenraadS/Wox.Plugin.ControlPanel
 caoyue/Wox.Plugin.PowerPlan
+roose/Wox.Plugin.DiskSpace
