@@ -18,3 +18,4 @@ WoxPlugins/CloseScreen
 CoenraadS/Wox.Plugin.ControlPanel
 caoyue/Wox.Plugin.PowerPlan
 roose/Wox.Plugin.DiskSpace
+arkraft/Wox.Plugin.Timezone
